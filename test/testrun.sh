@@ -1,0 +1,43 @@
+#!/bin/bash
+
+node xcon
+sleep 2
+node xconveter.js
+sleep 2
+node xcon
+sleep 2
+node xconveter.js
+sleep 2
+node xcon
+sleep 2
+node xconveter.js
+sleep 2
+node xcon
+sleep 2
+node xconveter.js
+sleep 2
+node xcon
+sleep 2
+node xconveter.js
+sleep 2
+node xcon
+sleep 2
+node xconveter.js
+sleep 2
+node xcon
+sleep 2
+node xconveter.js
+sleep 2
+node xcon
+sleep 2
+node xconveter.js
+sleep 2
+node xcon
+sleep 2
+node xconveter.js
+sleep 2
+node xcon
+sleep 2
+node xconveter.js
+sleep 2
+
